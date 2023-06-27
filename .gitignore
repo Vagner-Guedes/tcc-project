@@ -1,0 +1,22 @@
+# Arquivos e pastas específicos do ambiente de desenvolvimento
+node_modules/
+.env
+
+# Arquivos gerados
+build/
+dist/
+*.log
+
+# Dependências geradas por gerenciadores de pacotes
+package-lock.json
+yarn.lock
+
+# Arquivos de configuração do IDE ou editor de texto
+.vscode/
+.idea/
+
+# Arquivos de backup ou temporários
+*.bak
+*.tmp
+
+# Outros arquivos e pastas específicos do seu projeto
