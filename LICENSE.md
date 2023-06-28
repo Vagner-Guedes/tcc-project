@@ -1,6 +1,6 @@
 MIT License
 
-Direitos autorais (c) 2023 Vagner de Jesus Guedes
+Direitos autorais (c) 2023 Vagner de Jesus Guedes,
 
 A permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia deste software e dos arquivos de documentação associados (o "Software"), para negociar o Software sem restrições, incluindo, sem limitação, os direitos de uso, cópia, modificação, fusão, publicação, distribuição, sublicenciamento e/ou venda de cópias do Software, e permitir que pessoas a quem o Software seja fornecido façam isso, sujeitas às seguintes condições:
 
